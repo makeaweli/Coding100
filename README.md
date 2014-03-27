@@ -1,4 +1,4 @@
-coding100
+Coding100
 =========
 
 Coding workshop for intermdiate school students. 
