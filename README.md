@@ -5,7 +5,7 @@ Coding workshop for intermdiate school students.
 
 ## 01 - Using The Command Line
 
-[PDF Slides](01-Using-The-Command-Line/01-Using The Command Line.pdf)
+[PDF Slides](01-Using-The-Command-Line/01-Using The Command Line.pdf?raw=true)
 
 * Unix
   * Terminal.app
