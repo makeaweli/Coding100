@@ -20,3 +20,20 @@ Coding workshop for intermdiate school students.
   * Introduction to Nano
   * Test Our Program
 
+## 02 - Source Code Management
+
+* Introduction
+
+* Git
+
+* Github
+
+## Programming Principles
+
+* Variables
+
+* Arrays
+
+* Loops
+
+* Functions
