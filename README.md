@@ -28,7 +28,7 @@ Coding workshop for intermdiate school students.
 
 * Github
 
-## Programming Principles
+## 03 - Programming Principles
 
 * Variables
 
