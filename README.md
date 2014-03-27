@@ -1,6 +1,6 @@
 coding100
 =========
 
-Coding workshop for intermdiate School students. 
+Coding workshop for intermdiate school students. 
 
-## 01 - The command line
+## 01 - Using the command line
