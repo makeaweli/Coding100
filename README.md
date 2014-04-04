@@ -20,20 +20,46 @@ Coding workshop for intermdiate school students.
   * Introduction to Nano
   * Test Our Program
 
-## 02 - Source Code Management
+## 02 - Programming Principles: I
+
+[PDF Slides](02-Fundamentals/Coding100 02-Programming Fundmentals.pdf?raw=true)
+
+* PHP
+  * PHP Shell
+
+* Primitive Data Types
+  * String
+  * Boolean
+  * Integer
+  * Float
+
+* Variables
+
+* Operators
+
+* Conditionals
+  * If Statement
+  * Else Statement
+
+## 03 - Programming Principles: II
+
+* Conditionals II
+  * Case Statement
+
+* Loops
+  * While Loop
+  * For Loop
+
+* Arrays
+  * Basic Array
+    * Acessing array values
+  * Associative Array
+  * Foreach loop
+
+## 03 - Source Code Management
 
 * Introduction
 
 * Git
 
 * Github
-
-## 03 - Programming Principles
-
-* Variables
-
-* Arrays
-
-* Loops
-
-* Functions
