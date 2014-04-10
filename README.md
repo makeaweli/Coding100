@@ -20,7 +20,7 @@ Coding workshop for intermdiate school students.
   * Introduction to Nano
   * Test Our Program
 
-## 02 - Programming Principles: I
+## 02 - Programming Fundamentals: I
 
 [PDF Slides](02-Fundamentals/Coding100 02-Programming Fundmentals.pdf?raw=true)
 
@@ -41,7 +41,7 @@ Coding workshop for intermdiate school students.
   * If Statement
   * Else Statement
 
-## 03 - Programming Principles: II
+## 03 - Programming Fundamentals: II
 
 * Conditionals II
   * Case Statement
