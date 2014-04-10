@@ -42,24 +42,26 @@ Coding workshop for intermdiate school students.
   * Else Statement
 
 ## 03 - Programming Fundamentals: II
+[PDF Slides](02-Fundamentals-II/Coding100 03-Programming Fundmentals II.pdf?raw=true)
 
 * Sublime Text
   * PHP shell sucks
 
 * Conditionals II
-  * Case Statement
+  * Switch Statement
 
 * Loops
   * While Loop
   * For Loop
 
+## 04 - Arrays
 * Arrays
   * Basic Array
     * Acessing array values
   * Associative Array
-  * Foreach loop
+    * Foreach loop
 
-## 03 - Source Code Management
+## 04 - Source Code Management
 
 * Introduction
 
