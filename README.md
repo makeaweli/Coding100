@@ -43,6 +43,9 @@ Coding workshop for intermdiate school students.
 
 ## 03 - Programming Fundamentals: II
 
+* Sublime Text
+  * PHP shell sucks
+
 * Conditionals II
   * Case Statement
 
