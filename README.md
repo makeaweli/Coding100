@@ -42,7 +42,7 @@ Coding workshop for intermdiate school students.
   * Else Statement
 
 ## 03 - Programming Fundamentals: II
-[PDF Slides](02-Fundamentals-II/Coding100 03-Programming Fundmentals II.pdf?raw=true)
+[PDF Slides](03-Fundamentals-II/Coding100 03-Programming Fundmentals II.pdf?raw=true)
 
 * Sublime Text
   * PHP shell sucks
