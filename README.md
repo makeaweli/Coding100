@@ -55,11 +55,13 @@ Coding workshop for intermdiate school students.
   * For Loop
 
 ## 04 - Arrays
+[PDF Slides](04-Arrays/Coding100 04 - Arrays.pdf?raw=true)
 * Arrays
   * Basic Array
     * Acessing array values
   * Associative Array
     * Foreach loop
+  * Multidimensional Arrays
 
 ## 05 - Source Code Management
 
